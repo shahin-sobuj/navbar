@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    width: 100%;
+    background-color: #263238;
+}
+.navbar ul li a{
+ color: #ffffff;
+}
+.navbar ul li:hover a{
+    color: #FACF50;
+}
+h3{
+    color: #FACF50;
+    padding: 20px 0;
+    padding-bottom: 0;
+}
+p{
+    color: #ffffff;
+    padding: 20px 0;
+}
+button{
+    border: 1px solid hsl(0, 0%, 80%) !important;
+    color: #FACF50 !important;
+    margin: 10px;
+}
+button:hover{
+    background-color: #2A383F;
+    color: #E31C25 !important;
+}
+.row img{
+    margin-left: 40%;
+}
